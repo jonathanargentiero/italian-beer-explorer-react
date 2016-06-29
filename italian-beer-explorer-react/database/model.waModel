@@ -1,0 +1,156 @@
+{
+	"toJSON": true,
+	"extraProperties": {
+		"version": "2",
+		"classes": {
+			"Beer": {
+				"panelColor": "#996699",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": true,
+					"position": {
+						"X": 44,
+						"Y": 95
+					}
+				}
+			},
+			"Brewery": {
+				"panelColor": "#76923C",
+				"panel": {
+					"isOpen": "true",
+					"position": {
+						"X": 402,
+						"Y": 51
+					},
+					"pathVisible": true
+				}
+			}
+		},
+		"model": {
+			"scriptMode": "manual",
+			"workspaceLeft": 0,
+			"workspaceTop": 0
+		}
+	},
+	"dataClasses": [
+		{
+			"name": "Beer",
+			"className": "Beer",
+			"collectionName": "BeerCollection",
+			"matchTable": "Employee",
+			"scope": "public",
+			"attributes": [
+				{
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"autosequence": true,
+					"type": "long",
+					"primKey": true
+				},
+				{
+					"name": "name",
+					"kind": "storage",
+					"matchColumn": "fullName",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "tags",
+					"kind": "storage",
+					"matchColumn": "salary",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "alcohol",
+					"kind": "storage",
+					"matchColumn": "title",
+					"scope": "public",
+					"type": "number"
+				},
+				{
+					"name": "image",
+					"kind": "storage",
+					"matchColumn": "gender",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "url",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "tagsUrl",
+					"kind": "storage",
+					"matchColumn": "typeUrl",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "position",
+					"kind": "storage",
+					"scope": "public",
+					"type": "number"
+				},
+				{
+					"name": "score",
+					"kind": "storage",
+					"scope": "public",
+					"type": "number"
+				},
+				{
+					"name": "rating",
+					"kind": "storage",
+					"scope": "public",
+					"type": "number"
+				},
+				{
+					"name": "brewery",
+					"scope": "public",
+					"path": "Brewery",
+					"type": "Brewery",
+					"kind": "relatedEntity"
+				}
+			]
+		},
+		{
+			"collectionName": "BreweryCollection",
+			"className": "Brewery",
+			"attributes": [
+				{
+					"name": "ID",
+					"kind": "storage",
+					"type": "long",
+					"autosequence": "true",
+					"unique": "true",
+					"primKey": "true"
+				},
+				{
+					"name": "name",
+					"scope": "public",
+					"type": "string",
+					"kind": "storage"
+				},
+				{
+					"name": "url",
+					"scope": "public",
+					"type": "string",
+					"kind": "storage"
+				},
+				{
+					"name": "beerCollection",
+					"scope": "public",
+					"reversePath": true,
+					"path": "brewery",
+					"type": "BeerCollection",
+					"kind": "relatedEntities"
+				}
+			]
+		}
+	],
+	"type": []
+}

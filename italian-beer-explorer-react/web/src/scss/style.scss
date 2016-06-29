@@ -1,0 +1,50 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.header {
+  padding-bottom: 1rem;
+  border-bottom: .05rem solid #e5e5e5;
+  margin-bottom: 1rem;
+}
+
+.beer {
+}
+
+.beer-panel__heading {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+}
+
+.beer-panel__icon {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  background: white url('/assets/img/beer.svg') no-repeat center;
+  padding: 12px;
+  background-size: 80%;
+  border-radius: 20%;
+  margin-right: 10px;
+}
+
+.beer-panel__title {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.beer-panel__brewery {
+  margin-left: auto;
+}
+
+.beer-panel__brewery a {
+  color: white;
+  text-decoration: none;
+}

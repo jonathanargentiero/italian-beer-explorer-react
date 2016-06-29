@@ -1,0 +1,518 @@
+2016-06-27 11:03:48 [wakanda.supervisor] INFO - solution closed
+2016-06-27 11:03:48 [wakanda] INFO - Opens the solution "C:\Users\jargentiero\Documents\Wakanda\solutions\italian-beer-explorer-react\italian-beer-explorer-react Solution\italian-beer-explorer-react.waSolution" for running
+2016-06-27 11:03:48 [wakanda.italian-beer-explorer-react] INFO - Users and groups directory opened
+2016-06-27 11:03:48 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Datastore opened
+2016-06-27 11:03:48 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2016-06-27 11:03:48 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project opened
+2016-06-27 11:03:48 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2016-06-27 11:03:48 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project opened
+2016-06-27 11:03:48 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution opened
+2016-06-27 11:03:48 [wakanda] INFO - Starts "italian-beer-explorer-react" solution
+2016-06-27 11:03:48 [wakanda.italian-beer-explorer-react.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2016-06-27 11:03:48 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - HTTP Server started
+2016-06-27 11:03:48 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project started
+2016-06-27 11:03:48 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - HTTP Server started
+2016-06-27 11:03:48 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project started
+2016-06-27 11:03:48 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Executes the bootstrap file(s)
+2016-06-27 11:03:48 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Bootstrap file(s) executed
+2016-06-27 11:03:48 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Executes the bootstrap file(s)
+2016-06-27 11:03:48 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Bootstrap file(s) executed
+2016-06-27 11:03:48 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution started
+2016-06-27 11:03:48 [wakanda] INFO - "italian-beer-explorer-react" solution has been successfully opened for running (duration: 521 ms)
+2016-06-27 11:03:48 [wakanda.supervisor] INFO - solution opened
+2016-06-27 11:12:02 [wakanda] INFO - Stops "italian-beer-explorer-react" solution
+2016-06-27 11:12:03 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project stopped
+2016-06-27 11:12:04 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project stopped
+2016-06-27 11:12:04 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution stopped
+2016-06-27 11:12:04 [wakanda] INFO - Closes "italian-beer-explorer-react" solution
+2016-06-27 11:12:05 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project closed
+2016-06-27 11:12:05 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project closed
+2016-06-27 11:12:05 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution closed
+2016-06-27 11:25:43 [wakanda.supervisor] INFO - solution closed
+2016-06-27 11:25:43 [wakanda] INFO - Opens the solution "C:\Users\jargentiero\Documents\Wakanda\solutions\italian-beer-explorer-react\italian-beer-explorer-react Solution\italian-beer-explorer-react.waSolution" for running
+2016-06-27 11:25:43 [wakanda.italian-beer-explorer-react] INFO - Users and groups directory opened
+2016-06-27 11:25:43 [IndexManager] INFO - Index  on Beer.ID built in 0 ms
+2016-06-27 11:25:43 [IndexManager] INFO - Index  on Beer.brewery built in 0 ms
+2016-06-27 11:25:43 [IndexManager] INFO - Index  on Brewery.ID built in 0 ms
+2016-06-27 11:25:43 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Datastore opened
+2016-06-27 11:25:43 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2016-06-27 11:25:43 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project opened
+2016-06-27 11:25:43 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2016-06-27 11:25:43 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project opened
+2016-06-27 11:25:43 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution opened
+2016-06-27 11:25:43 [wakanda] INFO - Starts "italian-beer-explorer-react" solution
+2016-06-27 11:25:43 [wakanda.italian-beer-explorer-react.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2016-06-27 11:25:43 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - HTTP Server started
+2016-06-27 11:25:43 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project started
+2016-06-27 11:25:43 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - HTTP Server started
+2016-06-27 11:25:43 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project started
+2016-06-27 11:25:43 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Executes the bootstrap file(s)
+2016-06-27 11:25:43 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Bootstrap file(s) executed
+2016-06-27 11:25:43 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Executes the bootstrap file(s)
+2016-06-27 11:25:43 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Bootstrap file(s) executed
+2016-06-27 11:25:43 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution started
+2016-06-27 11:25:43 [wakanda] INFO - "italian-beer-explorer-react" solution has been successfully opened for running (duration: 546 ms)
+2016-06-27 11:25:43 [wakanda.supervisor] INFO - solution opened
+2016-06-27 11:30:45 [IndexManager] INFO - Index  on Beer.ID built in 0 ms
+2016-06-27 11:30:45 [IndexManager] INFO - Index  on Beer.brewery built in 0 ms
+2016-06-27 11:30:45 [IndexManager] INFO - Index  on Brewery.ID built in 0 ms
+2016-06-27 11:30:45 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Datastore model reloaded
+2016-06-27 11:31:04 [IndexManager] INFO - Index  on Beer.ID built in 0 ms
+2016-06-27 11:31:04 [IndexManager] INFO - Index  on Beer.brewery built in 0 ms
+2016-06-27 11:31:04 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react.jvsc] ERROR - [4000] Wrong type for parameter #1, expected File or String., task #12508, task name is HTTP connection handler
+2016-06-27 11:31:04 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react.xbox] ERROR - [614] "{newname}" is an invalid name for file {path}., task #12508, task name is HTTP connection handler
+2016-06-27 11:31:04 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react.JS4D] ERROR - [2] Error evaluating javascript file:///C:/Users/jargentiero/Documents/Wakanda/solutions/italian-beer-explorer-react/italian-beer-explorer-react/database/data/importScript.js, task #12508, task name is HTTP connection handler
+2016-06-27 11:31:04 [IndexManager] INFO - Index  on Brewery.ID built in 0 ms
+2016-06-27 11:31:36 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react.jvsc] ERROR - [4000] Wrong type for parameter #1, expected File or String., task #12508, task name is HTTP connection handler
+2016-06-27 11:31:36 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react.xbox] ERROR - [614] "{newname}" is an invalid name for file {path}., task #12508, task name is HTTP connection handler
+2016-06-27 11:31:36 [IndexManager] INFO - Index  on Beer.ID built in 0 ms
+2016-06-27 11:31:36 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react.JS4D] ERROR - [2] Error evaluating javascript file:///C:/Users/jargentiero/Documents/Wakanda/solutions/italian-beer-explorer-react/italian-beer-explorer-react/database/data/importScript.js, task #12508, task name is HTTP connection handler
+2016-06-27 11:31:36 [IndexManager] INFO - Index  on Beer.brewery built in 0 ms
+2016-06-27 11:31:36 [IndexManager] INFO - Index  on Brewery.ID built in 0 ms
+2016-06-27 11:31:42 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react.jvsc] ERROR - [4055] Illegal return statement, line #7, file:///C:/Users/jargentiero/Documents/Wakanda/solutions/italian-beer-explorer-react/italian-beer-explorer-react/database/data/importScript.js., task #12508, task name is HTTP connection handler
+2016-06-27 11:31:42 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react.JS4D] ERROR - [2] Error evaluating javascript file:///C:/Users/jargentiero/Documents/Wakanda/solutions/italian-beer-explorer-react/italian-beer-explorer-react/database/data/importScript.js, task #12508, task name is HTTP connection handler
+2016-06-27 11:31:43 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react.jvsc] ERROR - [4055] Illegal return statement, line #7, file:///C:/Users/jargentiero/Documents/Wakanda/solutions/italian-beer-explorer-react/italian-beer-explorer-react/database/data/importScript.js., task #12508, task name is HTTP connection handler
+2016-06-27 11:31:43 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react.JS4D] ERROR - [2] Error evaluating javascript file:///C:/Users/jargentiero/Documents/Wakanda/solutions/italian-beer-explorer-react/italian-beer-explorer-react/database/data/importScript.js, task #12508, task name is HTTP connection handler
+2016-06-27 11:31:51 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react.jvsc] ERROR - [4055] Illegal return statement, line #7, file:///C:/Users/jargentiero/Documents/Wakanda/solutions/italian-beer-explorer-react/italian-beer-explorer-react/database/data/importScript.js., task #12508, task name is HTTP connection handler
+2016-06-27 11:31:51 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react.JS4D] ERROR - [2] Error evaluating javascript file:///C:/Users/jargentiero/Documents/Wakanda/solutions/italian-beer-explorer-react/italian-beer-explorer-react/database/data/importScript.js, task #12508, task name is HTTP connection handler
+2016-06-27 11:31:54 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react.jvsc] ERROR - [4055] Illegal return statement, line #7, file:///C:/Users/jargentiero/Documents/Wakanda/solutions/italian-beer-explorer-react/italian-beer-explorer-react/database/data/importScript.js., task #12508, task name is HTTP connection handler
+2016-06-27 11:31:54 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react.JS4D] ERROR - [2] Error evaluating javascript file:///C:/Users/jargentiero/Documents/Wakanda/solutions/italian-beer-explorer-react/italian-beer-explorer-react/database/data/importScript.js, task #12508, task name is HTTP connection handler
+2016-06-27 11:32:11 [IndexManager] INFO - Index  on Beer.ID built in 0 ms
+2016-06-27 11:32:11 [IndexManager] INFO - Index  on Beer.brewery built in 0 ms
+2016-06-27 11:32:11 [IndexManager] INFO - Index  on Brewery.ID built in 0 ms
+2016-06-27 11:32:20 [IndexManager] INFO - Index  on Beer.ID built in 0 ms
+2016-06-27 11:32:20 [IndexManager] INFO - Index  on Beer.brewery built in 0 ms
+2016-06-27 11:32:20 [IndexManager] INFO - Index  on Brewery.ID built in 0 ms
+2016-06-27 11:33:13 [IndexManager] INFO - Index  on Beer.ID built in 0 ms
+2016-06-27 11:33:13 [IndexManager] INFO - Index  on Beer.brewery built in 14 ms
+2016-06-27 11:33:13 [IndexManager] INFO - Index  on Brewery.ID built in 0 ms
+2016-06-27 11:33:24 [IndexManager] INFO - Index  on Beer.ID built in 0 ms
+2016-06-27 11:33:24 [IndexManager] INFO - Index  on Beer.brewery built in 12 ms
+2016-06-27 11:33:24 [IndexManager] INFO - Index  on Brewery.ID built in 0 ms
+2016-06-27 11:33:34 [IndexManager] INFO - Index  on Beer.ID built in 0 ms
+2016-06-27 11:33:34 [IndexManager] INFO - Index  on Beer.brewery built in 13 ms
+2016-06-27 11:33:34 [IndexManager] INFO - Index  on Brewery.ID built in 0 ms
+2016-06-27 11:33:39 [IndexManager] INFO - Index  on Beer.ID built in 0 ms
+2016-06-27 11:33:39 [IndexManager] INFO - Index  on Beer.brewery built in 13 ms
+2016-06-27 11:33:39 [IndexManager] INFO - Index  on Brewery.ID built in 0 ms
+2016-06-27 11:33:55 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - importing from C:/Users/jargentiero/Documents/Wakanda/solutions/italian-beer-explorer-react/italian-beer-explorer-react/database/data/data.csv.
+2016-06-27 11:33:55 [IndexManager] INFO - Index  on Beer.ID built in 0 ms
+2016-06-27 11:33:55 [IndexManager] INFO - Index  on Beer.brewery built in 10 ms
+2016-06-27 11:33:55 [IndexManager] INFO - Index  on Brewery.ID built in 0 ms
+2016-06-27 11:33:57 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - importing from C:/Users/jargentiero/Documents/Wakanda/solutions/italian-beer-explorer-react/italian-beer-explorer-react/database/data/data.csv.
+2016-06-27 11:33:57 [IndexManager] INFO - Index  on Beer.ID built in 0 ms
+2016-06-27 11:33:57 [IndexManager] INFO - Index  on Beer.brewery built in 18 ms
+2016-06-27 11:33:57 [IndexManager] INFO - Index  on Brewery.ID built in 0 ms
+2016-06-27 11:34:11 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - importing from C:/Users/jargentiero/Documents/Wakanda/solutions/italian-beer-explorer-react/italian-beer-explorer-react/database/data/data.csv.
+2016-06-27 11:34:11 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - importing from C:/Users/jargentiero/Documents/Wakanda/solutions/italian-beer-explorer-react/italian-beer-explorer-react/database/data/data.csv.before: 100 / after: 100before: 100 / after: 100before: 100 / after: 100
+2016-06-27 11:34:11 [IndexManager] INFO - Index  on Beer.ID built in 0 ms
+2016-06-27 11:34:11 [IndexManager] INFO - Index  on Beer.brewery built in 16 ms
+2016-06-27 11:34:11 [IndexManager] INFO - Index  on Brewery.ID built in 0 ms
+2016-06-27 11:34:28 [IndexManager] INFO - Index  on Beer.ID built in 0 ms
+2016-06-27 11:34:28 [IndexManager] INFO - Index  on Beer.brewery built in 10 ms
+2016-06-27 11:34:28 [IndexManager] INFO - Index  on Brewery.ID built in 0 ms
+2016-06-27 11:37:31 [IndexManager] INFO - Index  on Beer.ID built in 0 ms
+2016-06-27 11:37:31 [IndexManager] INFO - Index  on Beer.brewery built in 17 ms
+2016-06-27 11:37:31 [IndexManager] INFO - Index  on Brewery.ID built in 0 ms
+2016-06-28 10:12:50 [wakanda] INFO - Stops "italian-beer-explorer-react" solution
+2016-06-28 10:12:52 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project stopped
+2016-06-28 10:12:53 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project stopped
+2016-06-28 10:12:53 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution stopped
+2016-06-28 10:12:53 [wakanda] INFO - Closes "italian-beer-explorer-react" solution
+2016-06-28 10:12:53 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project closed
+2016-06-28 10:12:53 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project closed
+2016-06-28 10:12:53 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution closed
+2016-06-28 10:38:24 [wakanda.supervisor] INFO - solution closed
+2016-06-28 10:38:24 [wakanda] INFO - Opens the solution "C:\Users\jargentiero\Documents\Wakanda\solutions\italian-beer-explorer-react\italian-beer-explorer-react Solution\italian-beer-explorer-react.waSolution" for running
+2016-06-28 10:38:24 [wakanda.italian-beer-explorer-react] INFO - Users and groups directory opened
+2016-06-28 10:38:24 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Datastore opened
+2016-06-28 10:38:24 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2016-06-28 10:38:24 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project opened
+2016-06-28 10:38:24 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2016-06-28 10:38:24 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project opened
+2016-06-28 10:38:24 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution opened
+2016-06-28 10:38:24 [wakanda] INFO - Starts "italian-beer-explorer-react" solution
+2016-06-28 10:38:24 [wakanda.italian-beer-explorer-react.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2016-06-28 10:38:24 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - HTTP Server started
+2016-06-28 10:38:24 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project started
+2016-06-28 10:38:24 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - HTTP Server started
+2016-06-28 10:38:24 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project started
+2016-06-28 10:38:24 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Executes the bootstrap file(s)
+2016-06-28 10:38:24 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Bootstrap file(s) executed
+2016-06-28 10:38:24 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Executes the bootstrap file(s)
+2016-06-28 10:38:24 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Bootstrap file(s) executed
+2016-06-28 10:38:24 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution started
+2016-06-28 10:38:24 [wakanda] INFO - "italian-beer-explorer-react" solution has been successfully opened for running (duration: 532 ms)
+2016-06-28 10:38:24 [wakanda.supervisor] INFO - solution opened
+2016-06-28 10:42:03 [wakanda] INFO - Stops "italian-beer-explorer-react" solution
+2016-06-28 10:42:04 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project stopped
+2016-06-28 10:42:05 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project stopped
+2016-06-28 10:42:05 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution stopped
+2016-06-28 10:42:05 [wakanda] INFO - Closes "italian-beer-explorer-react" solution
+2016-06-28 10:42:05 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project closed
+2016-06-28 10:42:05 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project closed
+2016-06-28 10:42:06 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution closed
+2016-06-28 10:42:13 [wakanda.supervisor] INFO - solution closed
+2016-06-28 10:42:13 [wakanda] INFO - Opens the solution "C:\Users\jargentiero\Documents\Wakanda\solutions\italian-beer-explorer-react\italian-beer-explorer-react Solution\italian-beer-explorer-react.waSolution" for running
+2016-06-28 10:42:13 [wakanda.italian-beer-explorer-react] INFO - Users and groups directory opened
+2016-06-28 10:42:13 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Datastore opened
+2016-06-28 10:42:13 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2016-06-28 10:42:13 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project opened
+2016-06-28 10:42:13 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2016-06-28 10:42:13 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project opened
+2016-06-28 10:42:13 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution opened
+2016-06-28 10:42:13 [wakanda] INFO - Starts "italian-beer-explorer-react" solution
+2016-06-28 10:42:13 [wakanda.italian-beer-explorer-react.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2016-06-28 10:42:13 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - HTTP Server started
+2016-06-28 10:42:13 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project started
+2016-06-28 10:42:14 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - HTTP Server started
+2016-06-28 10:42:14 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project started
+2016-06-28 10:42:14 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Executes the bootstrap file(s)
+2016-06-28 10:42:14 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Bootstrap file(s) executed
+2016-06-28 10:42:14 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Executes the bootstrap file(s)
+2016-06-28 10:42:14 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Bootstrap file(s) executed
+2016-06-28 10:42:14 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution started
+2016-06-28 10:42:14 [wakanda] INFO - "italian-beer-explorer-react" solution has been successfully opened for running (duration: 531 ms)
+2016-06-28 10:42:14 [wakanda.supervisor] INFO - solution opened
+2016-06-28 10:45:12 [wakanda] INFO - Stops "italian-beer-explorer-react" solution
+2016-06-28 10:45:13 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project stopped
+2016-06-28 10:45:14 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project stopped
+2016-06-28 10:45:14 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution stopped
+2016-06-28 10:45:14 [wakanda] INFO - Closes "italian-beer-explorer-react" solution
+2016-06-28 10:45:15 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project closed
+2016-06-28 10:45:15 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project closed
+2016-06-28 10:45:15 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution closed
+2016-06-28 10:45:55 [wakanda.supervisor] INFO - solution closed
+2016-06-28 10:45:55 [wakanda] INFO - Opens the solution "C:\Users\jargentiero\Documents\Wakanda\solutions\italian-beer-explorer-react\italian-beer-explorer-react Solution\italian-beer-explorer-react.waSolution" for running
+2016-06-28 10:45:55 [wakanda.italian-beer-explorer-react] INFO - Users and groups directory opened
+2016-06-28 10:45:55 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Datastore opened
+2016-06-28 10:45:55 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2016-06-28 10:45:55 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project opened
+2016-06-28 10:45:55 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2016-06-28 10:45:55 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project opened
+2016-06-28 10:45:55 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution opened
+2016-06-28 10:45:55 [wakanda] INFO - Starts "italian-beer-explorer-react" solution
+2016-06-28 10:45:55 [wakanda.italian-beer-explorer-react.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2016-06-28 10:45:55 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - HTTP Server started
+2016-06-28 10:45:55 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project started
+2016-06-28 10:45:55 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - HTTP Server started
+2016-06-28 10:45:55 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project started
+2016-06-28 10:45:55 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Executes the bootstrap file(s)
+2016-06-28 10:45:55 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Bootstrap file(s) executed
+2016-06-28 10:45:55 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Executes the bootstrap file(s)
+2016-06-28 10:45:55 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Bootstrap file(s) executed
+2016-06-28 10:45:55 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution started
+2016-06-28 10:45:55 [wakanda] INFO - "italian-beer-explorer-react" solution has been successfully opened for running (duration: 549 ms)
+2016-06-28 10:45:55 [wakanda.supervisor] INFO - solution opened
+2016-06-28 10:47:15 [wakanda] INFO - Stops "italian-beer-explorer-react" solution
+2016-06-28 10:47:16 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project stopped
+2016-06-28 10:47:17 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project stopped
+2016-06-28 10:47:17 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution stopped
+2016-06-28 10:47:17 [wakanda] INFO - Closes "italian-beer-explorer-react" solution
+2016-06-28 10:47:17 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project closed
+2016-06-28 10:47:17 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project closed
+2016-06-28 10:47:18 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution closed
+2016-06-28 10:48:03 [wakanda.supervisor] INFO - solution closed
+2016-06-28 10:48:03 [wakanda] INFO - Opens the solution "C:\Users\jargentiero\Documents\Wakanda\solutions\italian-beer-explorer-react\italian-beer-explorer-react Solution\italian-beer-explorer-react.waSolution" for running
+2016-06-28 10:48:03 [wakanda.italian-beer-explorer-react] INFO - Users and groups directory opened
+2016-06-28 10:48:03 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Datastore opened
+2016-06-28 10:48:03 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2016-06-28 10:48:03 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project opened
+2016-06-28 10:48:03 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2016-06-28 10:48:03 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project opened
+2016-06-28 10:48:03 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution opened
+2016-06-28 10:48:03 [wakanda] INFO - Starts "italian-beer-explorer-react" solution
+2016-06-28 10:48:03 [wakanda.italian-beer-explorer-react.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2016-06-28 10:48:03 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - HTTP Server started
+2016-06-28 10:48:03 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project started
+2016-06-28 10:48:03 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - HTTP Server started
+2016-06-28 10:48:03 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project started
+2016-06-28 10:48:03 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Executes the bootstrap file(s)
+2016-06-28 10:48:03 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Bootstrap file(s) executed
+2016-06-28 10:48:03 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Executes the bootstrap file(s)
+2016-06-28 10:48:03 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Bootstrap file(s) executed
+2016-06-28 10:48:03 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution started
+2016-06-28 10:48:03 [wakanda] INFO - "italian-beer-explorer-react" solution has been successfully opened for running (duration: 550 ms)
+2016-06-28 10:48:03 [wakanda.supervisor] INFO - solution opened
+2016-06-28 10:52:04 [wakanda] INFO - Stops "italian-beer-explorer-react" solution
+2016-06-28 10:52:05 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project stopped
+2016-06-28 10:52:06 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project stopped
+2016-06-28 10:52:06 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution stopped
+2016-06-28 10:52:06 [wakanda] INFO - Closes "italian-beer-explorer-react" solution
+2016-06-28 10:52:06 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project closed
+2016-06-28 10:52:06 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project closed
+2016-06-28 10:52:07 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution closed
+2016-06-28 10:52:15 [wakanda.supervisor] INFO - solution closed
+2016-06-28 10:52:15 [wakanda] INFO - Opens the solution "C:\Users\jargentiero\Documents\Wakanda\solutions\italian-beer-explorer-react\italian-beer-explorer-react Solution\italian-beer-explorer-react.waSolution" for running
+2016-06-28 10:52:15 [wakanda.italian-beer-explorer-react] INFO - Users and groups directory opened
+2016-06-28 10:52:15 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Datastore opened
+2016-06-28 10:52:15 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2016-06-28 10:52:15 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project opened
+2016-06-28 10:52:15 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2016-06-28 10:52:15 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project opened
+2016-06-28 10:52:15 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution opened
+2016-06-28 10:52:15 [wakanda] INFO - Starts "italian-beer-explorer-react" solution
+2016-06-28 10:52:15 [wakanda.italian-beer-explorer-react.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2016-06-28 10:52:15 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - HTTP Server started
+2016-06-28 10:52:15 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project started
+2016-06-28 10:52:15 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - HTTP Server started
+2016-06-28 10:52:15 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project started
+2016-06-28 10:52:15 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Executes the bootstrap file(s)
+2016-06-28 10:52:15 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Bootstrap file(s) executed
+2016-06-28 10:52:15 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Executes the bootstrap file(s)
+2016-06-28 10:52:15 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Bootstrap file(s) executed
+2016-06-28 10:52:15 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution started
+2016-06-28 10:52:15 [wakanda] INFO - "italian-beer-explorer-react" solution has been successfully opened for running (duration: 530 ms)
+2016-06-28 10:52:15 [wakanda.supervisor] INFO - solution opened
+2016-06-28 10:56:59 [wakanda] INFO - Stops "italian-beer-explorer-react" solution
+2016-06-28 10:57:00 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project stopped
+2016-06-28 10:57:01 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project stopped
+2016-06-28 10:57:01 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution stopped
+2016-06-28 10:57:01 [wakanda] INFO - Closes "italian-beer-explorer-react" solution
+2016-06-28 10:57:02 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project closed
+2016-06-28 10:57:02 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project closed
+2016-06-28 10:57:02 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution closed
+2016-06-28 10:57:12 [wakanda.supervisor] INFO - solution closed
+2016-06-28 10:57:12 [wakanda] INFO - Opens the solution "C:\Users\jargentiero\Documents\Wakanda\solutions\italian-beer-explorer-react\italian-beer-explorer-react Solution\italian-beer-explorer-react.waSolution" for running
+2016-06-28 10:57:12 [wakanda.italian-beer-explorer-react] INFO - Users and groups directory opened
+2016-06-28 10:57:12 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Datastore opened
+2016-06-28 10:57:12 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2016-06-28 10:57:12 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project opened
+2016-06-28 10:57:12 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2016-06-28 10:57:12 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project opened
+2016-06-28 10:57:12 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution opened
+2016-06-28 10:57:12 [wakanda] INFO - Starts "italian-beer-explorer-react" solution
+2016-06-28 10:57:12 [wakanda.italian-beer-explorer-react.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2016-06-28 10:57:12 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - HTTP Server started
+2016-06-28 10:57:12 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project started
+2016-06-28 10:57:13 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - HTTP Server started
+2016-06-28 10:57:13 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project started
+2016-06-28 10:57:13 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Executes the bootstrap file(s)
+2016-06-28 10:57:13 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Bootstrap file(s) executed
+2016-06-28 10:57:13 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Executes the bootstrap file(s)
+2016-06-28 10:57:13 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Bootstrap file(s) executed
+2016-06-28 10:57:13 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution started
+2016-06-28 10:57:13 [wakanda] INFO - "italian-beer-explorer-react" solution has been successfully opened for running (duration: 573 ms)
+2016-06-28 10:57:13 [wakanda.supervisor] INFO - solution opened
+2016-06-28 11:31:29 [wakanda] INFO - Stops "italian-beer-explorer-react" solution
+2016-06-28 11:31:30 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project stopped
+2016-06-28 11:31:31 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project stopped
+2016-06-28 11:31:31 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution stopped
+2016-06-28 11:31:31 [wakanda] INFO - Closes "italian-beer-explorer-react" solution
+2016-06-28 11:31:31 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project closed
+2016-06-28 11:31:31 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project closed
+2016-06-28 11:31:32 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution closed
+2016-06-28 11:32:02 [wakanda.supervisor] INFO - solution closed
+2016-06-28 11:32:02 [wakanda] INFO - Opens the solution "C:\Users\jargentiero\Documents\Wakanda\solutions\italian-beer-explorer-react\italian-beer-explorer-react Solution\italian-beer-explorer-react.waSolution" for running
+2016-06-28 11:32:02 [wakanda.italian-beer-explorer-react] INFO - Users and groups directory opened
+2016-06-28 11:32:02 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Datastore opened
+2016-06-28 11:32:02 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2016-06-28 11:32:02 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project opened
+2016-06-28 11:32:02 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2016-06-28 11:32:02 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project opened
+2016-06-28 11:32:02 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution opened
+2016-06-28 11:32:02 [wakanda] INFO - Starts "italian-beer-explorer-react" solution
+2016-06-28 11:32:02 [wakanda.italian-beer-explorer-react.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2016-06-28 11:32:02 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - HTTP Server started
+2016-06-28 11:32:02 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project started
+2016-06-28 11:32:02 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - HTTP Server started
+2016-06-28 11:32:02 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project started
+2016-06-28 11:32:02 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Executes the bootstrap file(s)
+2016-06-28 11:32:02 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Bootstrap file(s) executed
+2016-06-28 11:32:02 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Executes the bootstrap file(s)
+2016-06-28 11:32:02 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Bootstrap file(s) executed
+2016-06-28 11:32:02 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution started
+2016-06-28 11:32:02 [wakanda] INFO - "italian-beer-explorer-react" solution has been successfully opened for running (duration: 536 ms)
+2016-06-28 11:32:02 [wakanda.supervisor] INFO - solution opened
+2016-06-28 14:35:38 [wakanda] INFO - Stops "italian-beer-explorer-react" solution
+2016-06-28 14:35:39 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project stopped
+2016-06-28 14:35:40 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project stopped
+2016-06-28 14:35:40 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution stopped
+2016-06-28 14:35:40 [wakanda] INFO - Closes "italian-beer-explorer-react" solution
+2016-06-28 14:35:40 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project closed
+2016-06-28 14:35:40 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project closed
+2016-06-28 14:35:41 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution closed
+2016-06-28 14:35:59 [wakanda.supervisor] INFO - solution closed
+2016-06-28 14:35:59 [wakanda] INFO - Opens the solution "C:\Users\jargentiero\Documents\Wakanda\solutions\italian-beer-explorer-react\italian-beer-explorer-react Solution\italian-beer-explorer-react.waSolution" for running
+2016-06-28 14:35:59 [wakanda.italian-beer-explorer-react] INFO - Users and groups directory opened
+2016-06-28 14:35:59 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Datastore opened
+2016-06-28 14:35:59 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2016-06-28 14:35:59 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project opened
+2016-06-28 14:35:59 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2016-06-28 14:35:59 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project opened
+2016-06-28 14:35:59 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution opened
+2016-06-28 14:35:59 [wakanda] INFO - Starts "italian-beer-explorer-react" solution
+2016-06-28 14:35:59 [wakanda.italian-beer-explorer-react.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2016-06-28 14:35:59 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - HTTP Server started
+2016-06-28 14:35:59 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project started
+2016-06-28 14:35:59 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - HTTP Server started
+2016-06-28 14:35:59 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project started
+2016-06-28 14:35:59 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Executes the bootstrap file(s)
+2016-06-28 14:35:59 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Bootstrap file(s) executed
+2016-06-28 14:35:59 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Executes the bootstrap file(s)
+2016-06-28 14:36:00 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Bootstrap file(s) executed
+2016-06-28 14:36:00 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution started
+2016-06-28 14:36:00 [wakanda] INFO - "italian-beer-explorer-react" solution has been successfully opened for running (duration: 563 ms)
+2016-06-28 14:36:00 [wakanda.supervisor] INFO - solution opened
+2016-06-28 14:37:08 [wakanda] INFO - Stops "italian-beer-explorer-react" solution
+2016-06-28 14:37:09 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project stopped
+2016-06-28 14:37:11 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project stopped
+2016-06-28 14:37:11 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution stopped
+2016-06-28 14:37:11 [wakanda] INFO - Closes "italian-beer-explorer-react" solution
+2016-06-28 14:37:11 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project closed
+2016-06-28 14:37:11 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project closed
+2016-06-28 14:37:11 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution closed
+2016-06-28 15:08:51 [wakanda.supervisor] INFO - solution closed
+2016-06-28 15:08:51 [wakanda] INFO - Opens the solution "C:\Users\jargentiero\Documents\Wakanda\solutions\italian-beer-explorer-react\italian-beer-explorer-react Solution\italian-beer-explorer-react.waSolution" for running
+2016-06-28 15:08:51 [wakanda.italian-beer-explorer-react] INFO - Users and groups directory opened
+2016-06-28 15:08:51 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Datastore opened
+2016-06-28 15:08:51 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2016-06-28 15:08:51 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project opened
+2016-06-28 15:08:51 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2016-06-28 15:08:51 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project opened
+2016-06-28 15:08:51 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution opened
+2016-06-28 15:08:51 [wakanda] INFO - Starts "italian-beer-explorer-react" solution
+2016-06-28 15:08:51 [wakanda.italian-beer-explorer-react.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2016-06-28 15:08:51 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - HTTP Server started
+2016-06-28 15:08:51 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project started
+2016-06-28 15:08:52 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - HTTP Server started
+2016-06-28 15:08:52 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project started
+2016-06-28 15:08:52 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Executes the bootstrap file(s)
+2016-06-28 15:08:52 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Bootstrap file(s) executed
+2016-06-28 15:08:52 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Executes the bootstrap file(s)
+2016-06-28 15:08:52 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Bootstrap file(s) executed
+2016-06-28 15:08:52 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution started
+2016-06-28 15:08:52 [wakanda] INFO - "italian-beer-explorer-react" solution has been successfully opened for running (duration: 559 ms)
+2016-06-28 15:08:52 [wakanda.supervisor] INFO - solution opened
+2016-06-28 15:09:33 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO -  created 
+2016-06-28 15:09:33 [wakanda] INFO - Stops "italian-beer-explorer-react" solution
+2016-06-28 15:09:34 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project stopped
+2016-06-28 15:09:35 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project stopped
+2016-06-28 15:09:35 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution stopped
+2016-06-28 15:09:35 [wakanda] INFO - Closes "italian-beer-explorer-react" solution
+2016-06-28 15:09:35 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project closed
+2016-06-28 15:09:35 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project closed
+2016-06-28 15:09:36 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution closed
+2016-06-28 15:09:36 [wakanda.supervisor] INFO - solution closed
+2016-06-28 15:09:36 [wakanda] INFO - Opens the solution "C:\Users\jargentiero\Documents\Wakanda\solutions\italian-beer-explorer-react\italian-beer-explorer-react Solution\italian-beer-explorer-react.waSolution" for running
+2016-06-28 15:09:36 [wakanda.italian-beer-explorer-react] INFO - Users and groups directory opened
+2016-06-28 15:09:36 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Datastore opened
+2016-06-28 15:09:36 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2016-06-28 15:09:36 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project opened
+2016-06-28 15:09:36 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2016-06-28 15:09:36 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project opened
+2016-06-28 15:09:36 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution opened
+2016-06-28 15:09:36 [wakanda] INFO - Starts "italian-beer-explorer-react" solution
+2016-06-28 15:09:36 [wakanda.italian-beer-explorer-react.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2016-06-28 15:09:36 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - HTTP Server started
+2016-06-28 15:09:36 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project started
+2016-06-28 15:09:36 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - HTTP Server started
+2016-06-28 15:09:36 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project started
+2016-06-28 15:09:36 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Executes the bootstrap file(s)
+2016-06-28 15:09:36 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Bootstrap file(s) executed
+2016-06-28 15:09:36 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Executes the bootstrap file(s)
+2016-06-28 15:09:36 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Bootstrap file(s) executed
+2016-06-28 15:09:36 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution started
+2016-06-28 15:09:36 [wakanda] INFO - "italian-beer-explorer-react" solution has been successfully opened for running (duration: 486 ms)
+2016-06-28 15:09:36 [wakanda.supervisor] INFO - solution opened
+2016-06-28 15:10:07 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO -  created 
+2016-06-28 15:10:07 [wakanda] INFO - Stops "italian-beer-explorer-react" solution
+2016-06-28 15:10:08 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project stopped
+2016-06-28 15:10:09 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project stopped
+2016-06-28 15:10:09 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution stopped
+2016-06-28 15:10:09 [wakanda] INFO - Closes "italian-beer-explorer-react" solution
+2016-06-28 15:10:10 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project closed
+2016-06-28 15:10:10 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project closed
+2016-06-28 15:10:10 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution closed
+2016-06-28 15:10:10 [wakanda.supervisor] INFO - solution closed
+2016-06-28 15:10:10 [wakanda] INFO - Opens the solution "C:\Users\jargentiero\Documents\Wakanda\solutions\italian-beer-explorer-react\italian-beer-explorer-react Solution\italian-beer-explorer-react.waSolution" for running
+2016-06-28 15:10:10 [wakanda.italian-beer-explorer-react] INFO - Users and groups directory opened
+2016-06-28 15:10:10 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Datastore opened
+2016-06-28 15:10:10 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2016-06-28 15:10:10 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project opened
+2016-06-28 15:10:10 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2016-06-28 15:10:10 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project opened
+2016-06-28 15:10:10 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution opened
+2016-06-28 15:10:10 [wakanda] INFO - Starts "italian-beer-explorer-react" solution
+2016-06-28 15:10:10 [wakanda.italian-beer-explorer-react.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2016-06-28 15:10:10 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - HTTP Server started
+2016-06-28 15:10:10 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project started
+2016-06-28 15:10:11 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - HTTP Server started
+2016-06-28 15:10:11 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project started
+2016-06-28 15:10:11 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Executes the bootstrap file(s)
+2016-06-28 15:10:11 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Bootstrap file(s) executed
+2016-06-28 15:10:11 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Executes the bootstrap file(s)
+2016-06-28 15:10:11 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Bootstrap file(s) executed
+2016-06-28 15:10:11 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution started
+2016-06-28 15:10:11 [wakanda] INFO - "italian-beer-explorer-react" solution has been successfully opened for running (duration: 512 ms)
+2016-06-28 15:10:11 [wakanda.supervisor] INFO - solution opened
+2016-06-28 15:50:43 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO -  created 
+2016-06-28 15:50:43 [wakanda] INFO - Stops "italian-beer-explorer-react" solution
+2016-06-28 15:50:44 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project stopped
+2016-06-28 15:50:46 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project stopped
+2016-06-28 15:50:46 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution stopped
+2016-06-28 15:50:46 [wakanda] INFO - Closes "italian-beer-explorer-react" solution
+2016-06-28 15:50:46 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project closed
+2016-06-28 15:50:46 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project closed
+2016-06-28 15:50:46 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution closed
+2016-06-28 15:50:46 [wakanda.supervisor] INFO - solution closed
+2016-06-28 15:50:46 [wakanda] INFO - Opens the solution "C:\Users\jargentiero\Documents\Wakanda\solutions\italian-beer-explorer-react\italian-beer-explorer-react Solution\italian-beer-explorer-react.waSolution" for running
+2016-06-28 15:50:46 [wakanda.italian-beer-explorer-react] INFO - Users and groups directory opened
+2016-06-28 15:50:47 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Datastore opened
+2016-06-28 15:50:47 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2016-06-28 15:50:47 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project opened
+2016-06-28 15:50:47 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2016-06-28 15:50:47 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project opened
+2016-06-28 15:50:47 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution opened
+2016-06-28 15:50:47 [wakanda] INFO - Starts "italian-beer-explorer-react" solution
+2016-06-28 15:50:47 [wakanda.italian-beer-explorer-react.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2016-06-28 15:50:47 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - HTTP Server started
+2016-06-28 15:50:47 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project started
+2016-06-28 15:50:47 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - HTTP Server started
+2016-06-28 15:50:47 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project started
+2016-06-28 15:50:47 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Executes the bootstrap file(s)
+2016-06-28 15:50:47 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Bootstrap file(s) executed
+2016-06-28 15:50:47 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Executes the bootstrap file(s)
+2016-06-28 15:50:47 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Bootstrap file(s) executed
+2016-06-28 15:50:47 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution started
+2016-06-28 15:50:47 [wakanda] INFO - "italian-beer-explorer-react" solution has been successfully opened for running (duration: 508 ms)
+2016-06-28 15:50:47 [wakanda.supervisor] INFO - solution opened
+2016-06-28 16:50:48 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO -  created 
+2016-06-28 16:50:48 [wakanda] INFO - Stops "italian-beer-explorer-react" solution
+2016-06-28 16:50:50 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project stopped
+2016-06-28 16:50:51 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project stopped
+2016-06-28 16:50:51 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution stopped
+2016-06-28 16:50:51 [wakanda] INFO - Closes "italian-beer-explorer-react" solution
+2016-06-28 16:50:51 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project closed
+2016-06-28 16:50:51 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project closed
+2016-06-28 16:50:51 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution closed
+2016-06-28 16:50:52 [wakanda.supervisor] INFO - solution closed
+2016-06-28 16:50:52 [wakanda] INFO - Opens the solution "C:\Users\jargentiero\Documents\Wakanda\solutions\italian-beer-explorer-react\italian-beer-explorer-react Solution\italian-beer-explorer-react.waSolution" for running
+2016-06-28 16:50:52 [wakanda.italian-beer-explorer-react] INFO - Users and groups directory opened
+2016-06-28 16:50:52 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Datastore opened
+2016-06-28 16:50:52 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2016-06-28 16:50:52 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project opened
+2016-06-28 16:50:52 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2016-06-28 16:50:52 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project opened
+2016-06-28 16:50:52 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution opened
+2016-06-28 16:50:52 [wakanda] INFO - Starts "italian-beer-explorer-react" solution
+2016-06-28 16:50:52 [wakanda.italian-beer-explorer-react.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2016-06-28 16:50:52 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - HTTP Server started
+2016-06-28 16:50:52 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project started
+2016-06-28 16:50:52 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - HTTP Server started
+2016-06-28 16:50:52 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project started
+2016-06-28 16:50:52 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Executes the bootstrap file(s)
+2016-06-28 16:50:52 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - Bootstrap file(s) executed
+2016-06-28 16:50:52 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Executes the bootstrap file(s)
+2016-06-28 16:50:52 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - Bootstrap file(s) executed
+2016-06-28 16:50:52 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution started
+2016-06-28 16:50:52 [wakanda] INFO - "italian-beer-explorer-react" solution has been successfully opened for running (duration: 520 ms)
+2016-06-28 16:50:52 [wakanda.supervisor] INFO - solution opened
+2016-06-28 16:51:11 [wakanda] INFO - Stops "italian-beer-explorer-react" solution
+2016-06-28 16:51:12 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project stopped
+2016-06-28 16:51:13 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project stopped
+2016-06-28 16:51:13 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution stopped
+2016-06-28 16:51:13 [wakanda] INFO - Closes "italian-beer-explorer-react" solution
+2016-06-28 16:51:13 [wakanda.italian-beer-explorer-react.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" project closed
+2016-06-28 16:51:13 [wakanda.italian-beer-explorer-react.ServerAdmin] INFO - "ServerAdmin" project closed
+2016-06-28 16:51:14 [wakanda.italian-beer-explorer-react] INFO - "italian-beer-explorer-react" solution closed
